@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    box-sizing: border-box;
+    justify-content: stretch;	
+    height: 80vmin;
+    width: 80vmin;
+    margin: 0 auto;
+    padding: 0;
+    border: 1px solid black;
+    background-color: rgb(190, 190, 36);
+  }
+
+
+  button {
+    margin: 10px 45%;
+    display: block;
+    font-size: 1em;
+    color: rgb(255, 51, 0);
+    background-color: blanchedalmond;
+    height: 2em;
+    box-shadow: 1em;
+  }
+
+  html {
+   background-color: blanchedalmond;
+  };
