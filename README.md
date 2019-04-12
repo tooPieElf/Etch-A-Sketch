@@ -1,0 +1,1 @@
+this project uses javascript mouse on hover even listener to achieve an entch over the grid created.
